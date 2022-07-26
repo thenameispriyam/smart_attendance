@@ -1,1 +1,1 @@
-# smart_attendance
+# smart_attendance_using_face_recognition
